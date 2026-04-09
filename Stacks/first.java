@@ -14,7 +14,7 @@ public class first{
         System.out.println(st.pop());
         System.out.println(st.pop());
         System.out.println(st.pop());
-        System.out.println(st.pop());
+        
 
     }
 }
